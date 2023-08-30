@@ -1,0 +1,8 @@
+1. npm rebuild
+=> for rebuild if you facing some error.
+
+2. ​npm run serve
+=> For test project after config done.
+
+3. npm run build​
+=> For Build deployment files (dist folder)
